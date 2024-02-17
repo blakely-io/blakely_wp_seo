@@ -4,7 +4,7 @@ Contributors: jonhenryjon
 Tags: meta description, meta, description, header, head, seo, serp, search engine result page
 Requires at least: latest
 Tested up to: latest
-Stable tag: 1.1.3
+Stable tag: 1.1.5
 License: GPL2
 
 A wordpress plugin to add the meta description and keywords tag in the HTML head.
