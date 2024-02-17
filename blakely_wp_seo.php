@@ -3,7 +3,7 @@
 Plugin Name: Blakely WP Customisations
 Plugin URI: https://blakely.io
 Description: Adds meta Description & Keywords to each page. Updates product category on shop page & removes WP meta. Removed permalink on cart page
-Version: 1.1.4
+Version: 1.1.5
 Author: Blakely.io
 Domain Path: /languages
 Text Domain: blakely-wp-custom-plugin
